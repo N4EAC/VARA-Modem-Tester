@@ -1,4 +1,5 @@
 # VARA Contact Lab — Windows VARA Modem Tester
+<img width="1052" height="881" alt="image" src="https://github.com/user-attachments/assets/3bf2b094-cc04-49a8-91d8-75d1d5aee732" />
 
 Automatically launch two original VARA HF modems, establish a local audio contact, exchange and verify messages in both directions, and save separate labeled PCM WAV recordings. Sweep **BW500 → BW2300 → BW2750**, with a cancellable **10-second waiting period before each test contact**.
 
