@@ -25,7 +25,7 @@ VARA, its licenses, virtual audio drivers and recordings are not included. The o
 
 Close VarAC, Winlink and other programs controlling either modem. Close both VARA instances before the first automatic launch, so selected ports/audio routes can be applied. Run each original modem once beforehand if it has not yet created its `VARA.ini`.
 
-Defaults:
+Defaults: (replace my callsign with yours)
 
 | Station | Executable | Callsign | TCP command/data |
 | --- | --- | --- | --- |
