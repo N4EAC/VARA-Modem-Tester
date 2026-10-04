@@ -12,8 +12,7 @@ Automatically launch two VARA HF modems, establish a local audio contact, exchan
 - Python 3.12 64-bit with its launcher to run/build from source.
 - Internet access during dependency installation/building.
 
-VARA, its licenses, virtual audio drivers and recordings are not included. The owner plans to upload a Windows setup file and screenshots later; no prebuilt installer is supplied in this initial source release.
-
+VARA, virtual audio drivers and recordings are not included.
 ## 1. Download and launch
 
 1. Download this repository with **Code → Download ZIP**, then extract it completely to a local directory such as `C:\VARA-Tester`.
