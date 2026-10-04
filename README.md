@@ -1,13 +1,13 @@
 # VARA Contact Lab — Windows VARA Modem Tester
 <img width="1052" height="881" alt="image" src="https://github.com/user-attachments/assets/3bf2b094-cc04-49a8-91d8-75d1d5aee732" />
 
-Automatically launch two original VARA HF modems, establish a local audio contact, exchange and verify messages in both directions, and save separate labeled PCM WAV recordings. Sweep **BW500 → BW2300 → BW2750**, with a cancellable **10-second waiting period before each test contact**.
+Automatically launch two VARA HF modems, establish a local audio contact, exchange and verify messages in both directions, and save separate labeled PCM WAV recordings. Sweep **BW500 → BW2300 → BW2750**, with a cancellable **10-second waiting period before each test contact**.
 
 [Audio-sample demonstration video](https://www.youtube.com/watch?v=i3yrqm0G-74) · [Full step-by-step Windows guide](WINDOWS_STEP_BY_STEP.md)
 
 ## What you need
 
-- Windows and the original VARA HF installed in both configured locations.
+- Windows and VARA HF installed in both configured locations.
 - Two independent installed virtual audio cables.
 - Python 3.12 64-bit with its launcher to run/build from source.
 - Internet access during dependency installation/building.
