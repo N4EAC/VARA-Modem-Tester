@@ -1,0 +1,21 @@
+.venv/
+__pycache__/
+build/
+dist/
+*.spec
+.build-venv/
+
+# Local recordings and licensed modem installations are never published.
+VARA Captures/
+captures/
+*.wav
+*.bin
+*.exe
+*.dll
+*.ini
+*.rtf
+*.log
+*.tester-backup-*
+settings.json
+speed-coverage.json
+.DS_Store
